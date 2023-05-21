@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/dsmalik/jenkins-testing/issues"
   },
-  "homepage": "https://github.com/dsmalik/jenkins-testing#readme"
+  "homepage": "https://github.com/dsmalik/jenkins-testing#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
 }
