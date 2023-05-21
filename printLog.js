@@ -1,5 +1,5 @@
 const printLog = (...args) => {
-    console.log(...args)
+    console.log('App - ', ...args)
 }
 
 module.exports = {
