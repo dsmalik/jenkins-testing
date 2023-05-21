@@ -1,5 +1,5 @@
 const printLog = (...args) => {
-    console.log('App - ', ...args)
+    console.log(new Date().toLocaleString(), '- App - ', ...args)
 }
 
 module.exports = {
