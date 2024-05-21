@@ -5,3 +5,5 @@ const printLog = (...args) => {
 module.exports = {
     printLog
 }
+
+printLog('Executing index file complete...');
