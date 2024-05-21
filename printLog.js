@@ -6,4 +6,4 @@ module.exports = {
     printLog
 }
 
-printLog('Executing index file complete...');
+printLog('Executing index file complete... 6');
